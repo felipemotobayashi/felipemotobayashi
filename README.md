@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felipemotobayashi
+<!--- 👋 Hi, I’m @felipemotobayashi
 - 👀 I’m interested in Machine Learning, Data Science, Python and R...
-
+--->
 <div align="center">
   <a href="https://github.com/felipemotobayashi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipemotobayashi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
