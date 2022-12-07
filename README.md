@@ -1,5 +1,5 @@
-<!--- 👋 Hi, I’m @felipemotobayashi
-- 👀 I’m interested in Machine Learning, Data Science, Python and R...
+                                                       👋 Hi, I’m @felipemotobayashi
+<!--- - 👀 I’m interested in Machine Learning, Data Science, Python and R...
 --->
 <div align="center">
   <a href="https://github.com/felipemotobayashi">
