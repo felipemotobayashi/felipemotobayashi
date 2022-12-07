@@ -1,4 +1,4 @@
-                                                       👋 Hi, I’m @felipemotobayashi
+                                                      👋 Hi, I’m Felipe Motobayashi
 <!--- - 👀 I’m interested in Machine Learning, Data Science, Python and R...
 --->
 <div align="center">
